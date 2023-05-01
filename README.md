@@ -1,4 +1,4 @@
-Now sound plays over MASTER channel, and you can disable all other game sounds(sfx, music, etc)
+Now sound plays over MASTER channel, and you can disable all other game sounds (sfx, music, etc)
 
 
 # MouseOverSounds
