@@ -1,3 +1,6 @@
+Now sound plays over MASTER channel, and you can disable all other game sounds(sfx, music, etc)
+
+
 # MouseOverSounds
 A Vanilla Warcraft (1.12.1) addon that plays a warning sound when you mouseover a rare, elite or dangerous mob. 
 
